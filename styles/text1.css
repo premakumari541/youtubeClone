@@ -1,0 +1,36 @@
+p{
+    font-family:Arial;
+    text-align:center;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.heading{
+    color:rgb(238, 97, 46);
+    font-weight:bold;
+    font-size:18px;
+ }
+.title{
+    
+    font-weight:bold;
+    font-size:25px;
+    margin-top:5px;
+
+
+}
+.desc{
+    font-weight:bold;
+    font-size:35px;
+    margin-top:5px;
+    margin-bottom:8px;
+
+}
+.buy-button{
+    color:white;
+    background-color:rgb(105, 105, 190);
+    border:none;
+   padding:10px 15px;
+   margin-left:48%;
+   margin-top:10px;
+   border-radius:17px;
+
+}
